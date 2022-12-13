@@ -9,6 +9,9 @@
     <title>CV Leniangel Pérez</title>
 </head>
 <body>
+	<a href="../../controller/cerrarSesion.php">
+		<button id="logoutbtn" type="button" name="button"><img class="icono" src="logout.png" alt="logout"></button>
+	</a>
     <div class="card-container">
         <img
             class="round"
